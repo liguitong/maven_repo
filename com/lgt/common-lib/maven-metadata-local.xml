@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.lgt</groupId>
+  <artifactId>common-lib</artifactId>
+  <versioning>
+    <latest>1.3-SNAPSHOT</latest>
+    <versions>
+      <version>1.3-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20210106154404</lastUpdated>
+  </versioning>
+</metadata>
