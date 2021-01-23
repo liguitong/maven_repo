@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jan 23 20:20:43 CST 2021
+minlog-1.2.pom>alimaven=
+minlog-1.2.pom>*=
+minlog-1.2.jar>*=
+minlog-1.2.pom>central=
+minlog-1.2.jar>huaweicloud=
+minlog-1.2.pom>huaweicloud=
+minlog-1.2.jar>builds.archive.org,maven2=

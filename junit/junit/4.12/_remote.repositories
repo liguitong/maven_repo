@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Jan 01 19:25:24 CST 2021
+#Sat Jan 23 20:21:39 CST 2021
 junit-4.12.pom>huaweicloud=
+junit-4.12.jar>builds.archive.org,maven2=
+junit-4.12.pom>builds.archive.org,maven2=
 junit-4.12.jar>huaweicloud=

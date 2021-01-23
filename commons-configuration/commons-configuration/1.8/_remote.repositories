@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jan 23 20:20:43 CST 2021
+commons-configuration-1.8.pom>central=
+commons-configuration-1.8.pom>huaweicloud=
+commons-configuration-1.8.pom>alimaven=
+commons-configuration-1.8.jar>huaweicloud=
+commons-configuration-1.8.pom>*=
+commons-configuration-1.8.jar>*=
+commons-configuration-1.8.jar>builds.archive.org,maven2=

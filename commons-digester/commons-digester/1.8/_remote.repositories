@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Jan 01 19:24:52 CST 2021
+#Sat Jan 23 20:30:53 CST 2021
 commons-digester-1.8.jar>huaweicloud=
+commons-digester-1.8.pom>builds.archive.org,maven2=
 commons-digester-1.8.pom>huaweicloud=
+commons-digester-1.8.jar>builds.archive.org,maven2=

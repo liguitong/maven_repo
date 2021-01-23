@@ -1,4 +1,9 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Jan 01 19:24:21 CST 2021
+#Sat Jan 23 20:20:43 CST 2021
+commons-codec-1.6.pom>alimaven=
+commons-codec-1.6.pom>central=
 commons-codec-1.6.pom>huaweicloud=
+commons-codec-1.6.jar>builds.archive.org,maven2=
 commons-codec-1.6.jar>huaweicloud=
+commons-codec-1.6.pom>*=
+commons-codec-1.6.jar>*=

@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jan 23 20:20:43 CST 2021
+guava-17.0.pom>alimaven=
+guava-17.0.pom>huaweicloud=
+guava-17.0.jar>builds.archive.org,maven2=
+guava-17.0.pom>*=
+guava-17.0.pom>central=
+guava-17.0.jar>huaweicloud=
+guava-17.0.jar>*=

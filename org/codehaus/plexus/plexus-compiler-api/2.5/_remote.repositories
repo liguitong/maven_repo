@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jan 23 20:22:35 CST 2021
+plexus-compiler-api-2.5.pom>builds.archive.org,maven2=
+plexus-compiler-api-2.5.jar>builds.archive.org,maven2=
+plexus-compiler-api-2.5.jar>central=

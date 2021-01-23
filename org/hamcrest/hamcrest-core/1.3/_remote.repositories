@@ -1,4 +1,10 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Jan 01 19:25:24 CST 2021
+#Sat Jan 23 20:20:43 CST 2021
+hamcrest-core-1.3.pom>central=
+hamcrest-core-1.3.pom>*=
 hamcrest-core-1.3.pom>huaweicloud=
+hamcrest-core-1.3.pom>alimaven=
+hamcrest-core-1.3.jar>*=
+hamcrest-core-1.3.pom>builds.archive.org,maven2=
 hamcrest-core-1.3.jar>huaweicloud=
+hamcrest-core-1.3.jar>builds.archive.org,maven2=

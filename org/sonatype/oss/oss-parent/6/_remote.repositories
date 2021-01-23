@@ -1,3 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Jan 01 19:24:56 CST 2021
+#Sat Jan 23 20:20:32 CST 2021
+oss-parent-6.pom>*=
+oss-parent-6.pom>alimaven=
+oss-parent-6.pom>builds.archive.org,maven2=
 oss-parent-6.pom>huaweicloud=

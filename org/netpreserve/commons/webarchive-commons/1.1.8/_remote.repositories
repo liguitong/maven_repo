@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jan 23 20:20:43 CST 2021
+webarchive-commons-1.1.8.pom>huaweicloud=
+webarchive-commons-1.1.8.pom>alimaven=
+webarchive-commons-1.1.8.jar>huaweicloud=
+webarchive-commons-1.1.8.jar>*=
+webarchive-commons-1.1.8.pom>*=
+webarchive-commons-1.1.8.pom>central=
+webarchive-commons-1.1.8.jar>builds.archive.org,maven2=

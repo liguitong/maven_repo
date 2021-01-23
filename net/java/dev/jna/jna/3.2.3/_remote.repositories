@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jan 23 20:20:43 CST 2021
+jna-3.2.3.jar>builds.archive.org,maven2=
+jna-3.2.3.pom>central=
+jna-3.2.3.jar>huaweicloud=
+jna-3.2.3.pom>huaweicloud=
+jna-3.2.3.jar>*=
+jna-3.2.3.pom>*=
+jna-3.2.3.pom>alimaven=

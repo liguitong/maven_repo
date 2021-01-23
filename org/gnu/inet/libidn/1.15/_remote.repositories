@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jan 23 20:20:43 CST 2021
+libidn-1.15.jar>builds.archive.org,maven2=
+libidn-1.15.jar>*=
+libidn-1.15.pom>central=
+libidn-1.15.pom>huaweicloud=
+libidn-1.15.pom>*=
+libidn-1.15.pom>alimaven=
+libidn-1.15.jar>huaweicloud=

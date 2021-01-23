@@ -1,4 +1,7 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Jan 01 19:23:58 CST 2021
+#Sat Jan 23 20:20:55 CST 2021
 maven-plugin-parameter-documenter-2.0.6.jar>huaweicloud=
+maven-plugin-parameter-documenter-2.0.6.pom>central=
+maven-plugin-parameter-documenter-2.0.6.jar>builds.archive.org,maven2=
 maven-plugin-parameter-documenter-2.0.6.pom>huaweicloud=
+maven-plugin-parameter-documenter-2.0.6.pom>builds.archive.org,maven2=

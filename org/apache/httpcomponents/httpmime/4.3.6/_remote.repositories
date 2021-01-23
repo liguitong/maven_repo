@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jan 23 20:20:43 CST 2021
+httpmime-4.3.6.pom>central=
+httpmime-4.3.6.jar>builds.archive.org,maven2=
+httpmime-4.3.6.pom>alimaven=
+httpmime-4.3.6.pom>huaweicloud=
+httpmime-4.3.6.pom>*=
+httpmime-4.3.6.jar>*=
+httpmime-4.3.6.jar>huaweicloud=

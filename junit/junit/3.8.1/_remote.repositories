@@ -1,4 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Jan 01 19:23:58 CST 2021
+#Sat Jan 23 20:20:03 CST 2021
+junit-3.8.1.jar>builds.archive.org,maven2=
+junit-3.8.1.pom>central=
+junit-3.8.1.pom>alimaven=
 junit-3.8.1.jar>huaweicloud=
 junit-3.8.1.pom>huaweicloud=
+junit-3.8.1.jar>alimaven=

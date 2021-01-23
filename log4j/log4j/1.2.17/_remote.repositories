@@ -1,4 +1,9 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Jan 01 19:24:12 CST 2021
+#Sat Jan 23 20:20:43 CST 2021
 log4j-1.2.17.jar>huaweicloud=
+log4j-1.2.17.pom>*=
 log4j-1.2.17.pom>huaweicloud=
+log4j-1.2.17.pom>alimaven=
+log4j-1.2.17.jar>*=
+log4j-1.2.17.pom>builds.archive.org,maven2=
+log4j-1.2.17.jar>builds.archive.org,maven2=

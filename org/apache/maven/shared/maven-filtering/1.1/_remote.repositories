@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Jan 01 19:23:58 CST 2021
+#Sat Jan 23 20:23:20 CST 2021
+maven-filtering-1.1.pom>builds.archive.org,maven2=
 maven-filtering-1.1.pom>huaweicloud=
+maven-filtering-1.1.jar>builds.archive.org,maven2=
 maven-filtering-1.1.jar>huaweicloud=

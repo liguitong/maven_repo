@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jan 20 21:55:27 CST 2021
+maven-plugins-18.pom>*=
+maven-plugins-18.pom>huaweicloud=
+maven-plugins-18.pom>alimaven=
+maven-plugins-18.pom>central=

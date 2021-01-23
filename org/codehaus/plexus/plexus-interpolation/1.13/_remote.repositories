@@ -1,4 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Jan 01 19:23:58 CST 2021
+#Sat Jan 23 20:20:03 CST 2021
 plexus-interpolation-1.13.jar>huaweicloud=
 plexus-interpolation-1.13.pom>huaweicloud=
+plexus-interpolation-1.13.pom>alimaven=
+plexus-interpolation-1.13.jar>builds.archive.org,maven2=
+plexus-interpolation-1.13.pom>builds.archive.org,maven2=
+plexus-interpolation-1.13.jar>alimaven=

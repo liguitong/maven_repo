@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jan 23 20:20:43 CST 2021
+htmlparser-1.6.pom>*=
+htmlparser-1.6.jar>builds.archive.org,maven2=
+htmlparser-1.6.pom>central=
+htmlparser-1.6.pom>alimaven=
+htmlparser-1.6.jar>huaweicloud=
+htmlparser-1.6.jar>*=
+htmlparser-1.6.pom>huaweicloud=

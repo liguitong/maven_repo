@@ -1,3 +1,9 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Jan 01 19:24:43 CST 2021
+#Sat Jan 23 20:20:43 CST 2021
+commons-logging-1.0.4.jar>huaweicloud=
+commons-logging-1.0.4.pom>alimaven=
+commons-logging-1.0.4.jar>builds.archive.org,maven2=
 commons-logging-1.0.4.pom>huaweicloud=
+commons-logging-1.0.4.pom>*=
+commons-logging-1.0.4.jar>*=
+commons-logging-1.0.4.pom>central=

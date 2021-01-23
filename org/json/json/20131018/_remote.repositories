@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jan 23 20:20:43 CST 2021
+json-20131018.pom>*=
+json-20131018.pom>central=
+json-20131018.pom>alimaven=
+json-20131018.jar>builds.archive.org,maven2=
+json-20131018.jar>huaweicloud=
+json-20131018.pom>huaweicloud=
+json-20131018.jar>*=

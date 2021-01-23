@@ -1,3 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Jan 01 19:23:55 CST 2021
+#Sat Jan 23 20:20:01 CST 2021
+plexus-components-1.1.15.pom>alimaven=
 plexus-components-1.1.15.pom>huaweicloud=
+plexus-components-1.1.15.pom>builds.archive.org,maven2=
