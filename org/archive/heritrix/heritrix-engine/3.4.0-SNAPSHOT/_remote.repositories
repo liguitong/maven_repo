@@ -1,5 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Jan 23 20:32:50 CST 2021
-heritrix-engine-3.4.0-SNAPSHOT.jar>=
-heritrix-engine-3.4.0-SNAPSHOT.pom>=
-heritrix-engine-3.4.0-SNAPSHOT-sources.jar>=

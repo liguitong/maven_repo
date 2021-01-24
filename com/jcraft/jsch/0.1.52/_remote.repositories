@@ -1,8 +1,9 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Jan 23 20:20:44 CST 2021
+#Sat Jan 23 22:28:02 CST 2021
 jsch-0.1.52.jar>huaweicloud=
 jsch-0.1.52.jar>central=
 jsch-0.1.52.jar>*=
+jsch-0.1.52.jar>alimaven=
 jsch-0.1.52.pom>alimaven=
 jsch-0.1.52.pom>central=
 jsch-0.1.52.pom>huaweicloud=

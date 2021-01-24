@@ -1,7 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Jan 23 20:33:13 CST 2021
-heritrix-3.4.0-SNAPSHOT-dist.zip>=
-heritrix-3.4.0-SNAPSHOT-src.tar.gz>=
-heritrix-3.4.0-SNAPSHOT.pom>=
-heritrix-3.4.0-SNAPSHOT-dist.tar.gz>=
-heritrix-3.4.0-SNAPSHOT-src.zip>=
